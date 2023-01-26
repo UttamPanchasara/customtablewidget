@@ -1,16 +1,17 @@
-# customwidget
+### Sticky Header & Column with DataTable Widget | Custom Widget | Tabular UI | Table UI - Flutter
+This is the tutorial project to demonstrate how to create tabular UI with sticky columns and table header.
 
-A new Flutter project.
+I have created tabular UI without using any plugis, only with available widgets within flutter framework, so that anyone can get an idea for same how they can use avaialble widgets to build something similar.
 
-## Getting Started
+I have used following widgets for this to demonstrate:
 
-This project is a starting point for a Flutter application.
+- DataTable
+- SingleChildScrollView
+- Column
+- Row
 
-A few resources to get you started if this is your first Flutter project:
+Simple and Easy!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Thanks!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/UttamPanchasara/customtablewidget/blob/master/assets/ui.gif" height="400" alt="Screenshot"/>
