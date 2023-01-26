@@ -33,6 +33,10 @@ class _CustomTableState extends State<CustomTable> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.black,
+        title: const Text('Sticky Header and Column DataTable'),
+      ),
       body: SafeArea(
         child: Stack(
           children: [
